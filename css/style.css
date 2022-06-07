@@ -884,6 +884,7 @@ div#pubData {
 	height: 250px;
 	width: 98%;
 	position: relative;
+	margin-top: 10px;
 }
 
 .blog-item .blog-content {
